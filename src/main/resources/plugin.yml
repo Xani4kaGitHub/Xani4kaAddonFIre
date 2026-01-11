@@ -1,0 +1,7 @@
+name: Xani4kaAddonFIre
+version: '${project.version}'
+main: org.xani4kaaddonfire.Xani4kaAddonFIre
+api-version: '1.16'
+depend: [WorldGuard]
+author: Xani4ka
+description: WorldGuard addon that adds firezone flag
